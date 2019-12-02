@@ -1,2 +1,2 @@
 # Using-Qiskit
- Some quantum programs using qiskit
+ Trying out some quantum circuits using qiskit and IBM-Q! :D
